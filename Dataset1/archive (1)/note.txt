@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/jackdaoud/marketing-data
+
+Keys
+
+Kênh
+Nền tảng 
+Chiến dịch
+Số liệu
+Chi phi quảng cáo

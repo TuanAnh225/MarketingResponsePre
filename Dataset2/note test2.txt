@@ -1,0 +1,5 @@
+httpswww.kaggle.comdatasetsahsan81superstore-marketing-campaign-dataset
+
+Predicting Customer Response to Bank Direct
+Telemarketing Campaign
+https://sci-hub.hkvisa.net/10.1109/ICE2T.2017.8215961
